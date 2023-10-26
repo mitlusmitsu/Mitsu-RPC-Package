@@ -1,0 +1,14 @@
+{
+  "name": "mitsu-rpc-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mitsu.js",
+  "scripts": {
+    "test": "node ./src/mitsu.js"
+  },
+  "author": "Mitsu",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
